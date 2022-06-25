@@ -2,9 +2,6 @@ from bs4 import BeautifulSoup
 import requests
 import pandas as pd
 
-
-
-
 DD=[]
 name=input('enter name = ')
 n=int(input('enter n = '))
